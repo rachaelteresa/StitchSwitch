@@ -8,7 +8,7 @@ Welcome to the repository for the **StitchSwitch Crochet Pattern Translation Dat
 
 Crochet is a globally cherished craft, offering both creative expression and therapeutic benefits. However, creating and modifying crochet patterns can be challenging, especially for beginners, due to the spatial and structural understanding required.
 
-[**CrochetPARADE**](crochetparade.org) is a visualisation tool designed to simplify this process, but it uses a custom syntax that may be unfamiliar to many crocheters. To bridge this gap, this dataset and accompanying research focus on **automatically translating** standard crochet notation into the CrochetPARADE format using LLMs.
+[**CrochetPARADE**](https://crochetparade.org/) is a visualisation tool designed to simplify this process, but it uses a custom syntax that may be unfamiliar to many crocheters. To bridge this gap, this dataset and accompanying research focus on **automatically translating** standard crochet notation into the CrochetPARADE format using LLMs.
 
 ### Pattern Variations
 
