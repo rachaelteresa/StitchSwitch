@@ -1,0 +1,498 @@
+﻿Original Pattern,crochetPARADE Pattern,Name ,Variation
+R1: Ch 7,7ch,Chain ,
+"Row 1: Make a magic ring 
+Row 2: Work 5 single crochet into the ring 
+Row 3: Work 2 single crochet into the next 4 stitches, work 3 single crochet into the next stitch","ring.R
+5sc@R
+sc2inc*4,sc3inc",Snail Shell ,Y
+"Row 1: Chain 10, turn 
+Row 2: 10 double crochet, starting at the first, turn
+Row 3: 10 double crochet, starting at the first","10ch, turn
+10dc, turn 
+10dc",Double DC Ribbon,
+R1: Ch 10,10ch,Chain,
+"R1: Ch 9, turn
+R2: (sc, sk 1) x5","9ch, turn
+(sc, sk)*5",Hole ribbon ,
+"R1: Ch 10, turn
+R2: Tr2tog 5 times, starting in first ch","10ch, turn
+5tr2tog",Wide C-shape ribbon,
+"R1: Ch 7, sl st in first ch.
+R2: Ch 10, sk 1, sl st in next st, repeat 4 times","7ch, ss@[%,0]
+[10ch, sk, ss]*4",4 petal flower,A
+"R1: Ch 10, turn
+R2: 1 sc in each ch, starting in first ch","10ch, turn
+10sc",Ribbon,
+"Row 1: Chain 2, turn
+Row 2: 2 single crochet, starting at the first, turn
+Row 3: 4 single crochet into each stitch","2ch, turn 
+2sc, turn 
+2sc4inc",Cat man ,
+"Row 1: Chain 9, turn 
+Row 2: 4 double crochet, 1 single crochet, 4 double crochet 
+Row 3: Chain 10 and slipstitch into the single crochet from Row 2 ","9ch, turn
+4dc, sc.A, 4dc, turn, 
+10ch, ss@A",Butterfly with loop ,A
+"Row 1: Make a magic ring 
+Row 2: Work 6 triple crochet in the ring
+Row 3: Work 2 triple crochet into every stitch","ring.R
+6tr@R
+(2tr2inc)*6",Cone Shape ,Y
+"Row 1: Chain 9, turn
+Row 2: Skip the first chain, 2 half double crochet in the next stitch, 6 half double crochet, 5 double crochet in the next stitch, turn
+Row 3: Double crochet in the first stitch from Row 1, 5 half double crochet, 2 half double crochet in the next stitch, slipstitch in the first stitch from Row 2.","9ch, turn
+sk, (hdc2inc,6hdc,dc5inc), turn
+(dc@[0,1], 5hdc,hdc2inc), ss@[0,-1]",Boot Base,A
+"Row 1: Chain 6, turn 
+Row 2: 1 single crochet in each stitch, starting at the second, turn 
+Row 3: 1 single crochet in each stitch, starting at the third, turn 
+Row 4: 1 single crochet in each stitch, turn
+Row 5: 3 single crochet in the 2nd stitch from the last row, slip stitch in the first stitch from the last round, turn 
+Row 6: 4 single crochet in the second stitch from the last row.","6ch, turn 
+sk, 5sc, turn
+2sk, 4sc, turn
+4sc, turn 
+3sc@[3,1], ss@[3,0], turn
+4sc@[4,1]",Boot with Bubble ,A
+"Row 1: Chain 7, turn 
+Row 2: 1 single crochet in each stitch, starting at the first, turn 
+Row 3: 1 single crochet in each stitch, starting at the first, turn 
+Row 4: Chain 15 and slip stitch into first stitch from Row 1","7ch, turn 
+7sc, turn
+7sc, turn 
+15ch, ss@[0,0]",Diagonal Attachment ,A
+"R1: Ch 2, turn
+R2: 2 sc, starting in first st, turn
+R3: 4 sc in each st","2ch, turn 
+2sc, turn 
+2sc4inc",Cat man ,
+"R1: Ch 2, sl st in first ch
+R2: 12 sc into the ch sp","(2ch, ss@[%, 1]).R
+12sc@R",Spiralling ,YA
+"R1: Ch 21, turn
+R2: Sk first st, 20 sl st, turn
+R3: Ch 1, 20 sl st, turn
+R4: Ch 1, 20 sl st, turn","21ch,turn
+sk,20ss,turn
+ch,20ss,turn
+ch,20ss,turn",Pointy Ribbon ,
+"Row 1: Chain 7, turn 
+Row 2: Skip a stitch, 6 triple crochet","7ch, turn
+sk, 6tr",XL Wide Ribbon,
+"Row 1: Chain 2, slipstitch into the first chain
+Row 2: Work 12 single crochet into the chain space ","(2ch, ss@[%, 1]).R
+12sc@R",Spiralling ,YA
+"R1: Ch 15, turn
+R2: 10 sc, 5 dc turn
+R3: Distribute 10 sc in the sc from last round turn
+R4: 2 sc in the 5th st from R3","15ch, turn
+10sc.C, 5dc, turn
+10sc@C, turn 
+2sc@[2,4]",Glasses,YA
+"Row 1: Chain 7, slipstitch in the first chain of the row 
+Row 2: Chain 5, skip 2 stitches, slipstitch into the next stitch. Repeat 3 times","7ch, ss@[%,0]
+[5ch, 2sk, ss]*3",3 petal flower,A
+"Row 1: Chain 16, turn
+Row 2: 4 triple crochet, double crochet, 4 triple crochet, double crochet, 4 triple crochet, turn 
+Row 3: Chain 7, slipstitch in the last chain from the first row","15ch, ch.B , turn
+[4tr,>,dc]*3, turn 
+7ch, ss@B",eye,XY
+"Row 1: Chain 7, turn 
+Row 2: 1 single crochet in each chain, starting at the first ","7ch, turn
+7sc",Ribbon,
+"Row 1: Chain 5, turn 
+Row 2: 1 single crochet in each chain, starting at the first, turn
+Row 3: 1 single crochet in each chain, starting at the first","5ch, turn
+5sc, turn 
+5sc",Double Ribbon - 5,
+"R1: Ch 5, turn
+R2: 1 sc in each ch, starting in first ch, turn
+R3: 1 sc in each st, starting in first sc","5ch, turn
+5sc, turn 
+5sc",Double Ribbon - 5,
+"R1: MR
+R2: 5 sc into ring
+R3: 2 sc in next 4 sts, 3 sc in next st
+R4: (Inc, sc) x5, inc","ring.R
+5sc@R
+sc2inc*4,sc3inc
+[sc2inc,>,sc]*6",Big Snail Shell ,XY
+"R1: Ch 10, turn
+R2: Dc2tog 5 times, starting in first ch","10ch, turn
+5dc2tog",Wide C-shape ribbon,
+"R1: Ch 4, turn 
+R2: sc 4 times ","4ch, turn 
+4sc",Little Blocks ,
+Row 1: Chain 7,7ch,Chain ,
+Row 1: Chain 10 ,10ch,Chain,
+"R1: Ch 8, turn.
+R2: 1 dc, 2 sc, 1 dc, 2 sc, 1 dc","8ch, turn 
+[2sc, <, dc]*3",Wavy Ribbon,X
+"R1: Ch 10, turn
+R2: 1 tr in each ch, starting in first ch, turn
+R3: 1 tr in each st, starting in first tr","10ch, turn
+10tr, turn 
+10tr",Double TC Ribbon,
+"R1: Ch 10, turn
+R2: 2 tr in each ch, starting in first ch","10ch, turn
+10tr2inc",Wide Frilly Ribbon ,
+"Row 1: Chain 10, turn 
+Row 2: 2 single crochet in each chain, starting at the first ","10ch, turn
+10sc2inc",Frilly Ribbon ,
+"Row 1: Make a magic ring 
+Row 2: Work 6 single crochet into the ring 
+Row3: Work 2 single crochets into the next 6 stitches 
+Row 4: Single crochet, incease. Repeat 5 more times 
+Row 5: 2 single crochet, incease. Repeat 5 more times 
+Row 6: 3 single crochet, incease. Repeat 5 more times 
+Row 7-21: 30 single crochet ","ring.R
+sc6inc@R
+(sc2inc)*6
+(sc, sc2inc)*6
+(2sc, sc2inc)*6
+(3sc, sc2inc)*6 
+(30sc)*15",Toy arm Tube ,Y
+"Row 1: Chain 8, turn
+Row 2: 2 single crochet, 1 double crochet, 2 single crochet, 1 double crochet, 2 single crochet","8ch, turn 
+[2sc, >, dc]*3",Wavy Ribbon,X
+"Row 1: Chain 8, turn
+Row 2: 1 double crochet, 2 single crochet, 1 double crochet, 2 single crochet, 1 double crochet","8ch, turn 
+[2sc, <, dc]*3",Wavy Ribbon,X
+"R1: Ch 6, turn
+R2: 1 sc in each st, starting in 2nd ch from hook, turn
+R3: 1 sc in each st, starting in 3rd st, turn
+R4: 1 sc in each st
+R5: 3 sc in 2nd st from last row, sl st in first st from last row","6ch, turn 
+sk, 5sc, turn
+2sk, 4sc, turn
+4sc, turn 
+3sc@[3,1], ss@[3,0]",Boot shape ,A
+"Row 1: Chain 10, turn 
+Row 2: triple crochet 2 together 5 times, starting at the first chain","10ch, turn
+5tr2tog",Wide C-shape ribbon,
+"Row 1: Chain 21, turn 
+Row 2: Skip the first stitch, 20 slipstich, turn
+Row 3: Chain 1, 20 slipstich, turn
+Row 4: Chain 1, 20 slipstich, turn","21ch,turn
+sk,20ss,turn
+ch,20ss,turn
+ch,20ss,turn",Pointy Ribbon ,
+"R1: Ch 7, turn
+R2: 1 sc in each st, starting in first st, turn
+R3: 1 sc in each st, starting in first st, turn
+R4: Ch 7, sl st in 4th st from R3, ch 7, sl st in first st from R3","7ch, turn 
+7sc, turn
+7sc, turn 
+7ch, ss@[2,3], 7ch, ss@[2,0]",Box Double Arch ,A
+"R1: Ch 5, sl st into first ch to form a ring
+R2: 20 sc in ch space
+R3: Inc in each of the 20 sc","(5ch, ss@[0,0]).S
+20sc@S
+20sc2inc",Scrunchie,YA
+"R1: Ch 4, turn 
+R2: Inc x 4","4ch, turn 
+4sc2inc",Curvy,
+"R1: Ch 7, turn
+R2: Sk 3, sc, sk 2, sc","7ch, turn
+3sk, sc, 2sk, sc",2 holes,
+"Row 1: Chain 10, turn 
+Row 2: 2 double crochet in each chain, starting at the first ","10ch, turn
+10dc2inc",Wide Frilly Ribbon ,
+"R1: Ch 8, turn.
+R2: 2 sc, 1 dc, 2 sc, 1 dc, 2 sc","8ch, turn 
+[2sc, >, dc]*3",Wavy Ribbon,X
+"R1: Ch 7, turn
+R2: Sk first st, 6 tr","7ch, turn
+sk, 6tr",XL Wide Ribbon,
+"R1: MR
+R2: 5 sc into ring
+R3: 2 sc in next 4 sts, 3 sc in next st","ring.R
+5sc@R
+sc2inc*4,sc3inc",Snail Shell ,Y
+"Row 1: Chain 2, turn
+Row 2: 2 single crochet, starting at the first, turn
+Row 3: 2 increase, turn 
+Row 4: Increase, 2 single crochet, increase, turn 
+Row 5: Increase, 4 single crochet, increase ","2ch, turn 
+2sc, turn 
+2sc2inc, turn
+sc2inc, 2sc, sc2inc, turn
+sc2inc, 4sc, sc2inc",Triangle ,
+"Row 1: Chain 7, turn
+Row 2: Skip 3 stitches, single crochet, skip 2 stitches, single crochet ","7ch, turn
+3sk, sc, 2sk, sc",2 holes,
+"R1: Ch 7, turn
+R2: 1 sc in each st, starting in first st, turn
+R3: 1 sc in each st, starting in first st, turn
+R4: Ch 15, sl st into first st from R1","7ch, turn 
+7sc, turn
+7sc, turn 
+15ch, ss@[0,0]",Diagonal Attachment ,A
+"Row 1: Chain 10, turn 
+Row 2: Double crochet 2 together 5 times, starting at the first chain","10ch, turn
+5dc2tog",Wide C-shape ribbon,
+"Row 1: Chain 16, turn
+Row 2: 4 triple crochet, double crochet, 4 triple crochet, double crochet, 4 triple crochet, turn 
+Row 3: Chain 7, slipstitch in the middle stitch from Row","15ch , turn
+([4tr,>,dc]*3).B, turn 
+7ch, ss@B",eye with eyeliner,XY
+"Row 1: Chain 6, turn 
+Row 2: 1 single crochet in each stitch, starting at the second, turn 
+Row 3: 1 single crochet in each stitch, starting at the third, turn 
+Row 4: 1 single crochet in each stitch
+Row 5: 3 single crochet in the 2nd stitch from the last row, slip stitch in the first stitch from the last row","6ch, turn 
+sk, 5sc, turn
+2sk, 4sc, turn
+4sc, turn 
+3sc@[3,1], ss@[3,0]",Boot shape ,A
+"R1: Ch 2
+R2: (3 dc sc 3 dc sc 3 dc) in ch space","2ch.S
+([3dc,>,sc]*3)@S",3 leaf,XY
+"Row 1: Chain 10, turn 
+Row 2: 1 single crochet in each chain, starting at the first ","10ch, turn
+10sc",Ribbon,
+"R1: MR
+R2: 6 sc into ring
+R3: 2 sc in each st
+R4: (Sc, inc) x6
+R5: (2 sc, inc) x6
+R6: (3 sc, inc) x6
+R7-21: 30 sc","ring.R
+sc6inc@R
+(sc2inc)*6
+(sc, sc2inc)*6
+(2sc, sc2inc)*6
+(3sc, sc2inc)*6 
+(30sc)*15",Toy arm Tube ,Y
+"R1: Ch 2, turn
+R2: 2 sc, starting in first st, turn
+R3: 2 inc, turn
+R4: Inc, 2 sc, inc, turn
+R5: Inc, 4 sc, inc","2ch, turn 
+2sc, turn 
+2sc2inc, turn
+sc2inc, 2sc, sc2inc, turn
+sc2inc, 4sc, sc2inc",Triangle ,
+"R1: Ch 10, turn
+R2: 1 sc in each ch, starting in first ch, turn
+R3: 1 sc in each st, starting in first sc","10ch, turn
+10sc, turn 
+10sc",Double Ribbon,
+"Row 1: Chain 9, turn
+Row 2: Single crochet in the first chain, skip a stitch. Repeat 4 more times. ","9ch, turn
+(sc, sk)*5",Hole ribbon ,
+"Row 1: Chain 10, turn 
+Row 2: 2 triple crochet in each chain, starting at the first ","10ch, turn
+10tr2inc",Wide Frilly Ribbon ,
+"Row 1: Chain 20, turn 
+Row 2: Skip a stitch, 19 triple crochet, turn
+Row 3: Skip a stitch, 19 double crochet, turn
+Row 4: Skip a stitch, 19 triple crochet","20ch, turn
+sk, 19tr, turn
+sk, 19dc, turn
+sk, 19tr",Mix Ribbon,
+"Row 1: Make a magic ring 
+Row 2: Work 10 single crochet in the ring , slip stitch into the first single crochet","ring.R
+10sc@R, ss@[1,0]",Folding Circle ,YA
+"R1: Ch 9, turn
+R2: Sk first ch, 2 hdc in next st, 6 hdc, 5 dc in next st, turn
+R3: Dc in first st from R1, 5 hdc, 2 hdc in next st, sl st in first st from R2","9ch, turn
+sk, (hdc2inc,6hdc,dc5inc), turn
+(dc@[0,1], 5hdc,hdc2inc), ss@[0,-1]",Boot Base,A
+"Row 1: Chain 5 and slipstitch into the first chain from the round
+Row 2: Single crochet 20 times in the chain space 
+Row 3: Increase in each of the 20 single crochets","(5ch, ss@[0,0]).S
+20sc@S
+20sc2inc",Scrunchie,YA
+"R1: MR
+R2: 6 tr into ring
+R3: 2 tr in each st","ring.R
+6tr@R
+(2tr2inc)*6",Cone Shape ,Y
+"Row 1: Chain 10, turn 
+Row 2: 1 triple crochet in each chain, starting at the first, turn
+Row 3: 1 triple crochet in each chain, starting at the first","10ch, turn
+10tr, turn 
+10tr",Double TC Ribbon,
+"R1: Ch 6, turn
+R2: 1 sc in each st, starting in 2nd ch from hook, turn
+R3: 1 sc in each st, starting in 3rd st, turn
+R4: 1 sc in each st, turn
+R5: 3 sc in 2nd st from last row, sl st in first st from last row, turn
+R6: 4 sc in 2nd st from last row","6ch, turn 
+sk, 5sc, turn
+2sk, 4sc, turn
+4sc, turn 
+3sc@[3,1], ss@[3,0], turn
+4sc@[4,1]",Boot with Bubble ,A
+"R1: Ch 7, turn
+R2: 1 sc in each st, starting in first st, turn
+R3: 1 sc in each st, starting in first st, turn
+R4: Ch 15, sl st in first st from R3","7ch, turn 
+7sc, turn
+7sc, turn 
+15ch, ss@[2,0]",Box Arch,A
+"R1: Ch 10, turn
+R2: Dec 5 times, starting in first ch","10ch, turn
+5sc2tog",C-shape ribbon,
+"R1: Ch 10, turn
+R2: 1 dc in each ch, starting in first ch, turn
+R3: 1 dc in each st, starting in first dc","10ch, turn
+10dc, turn 
+10dc",Double DC Ribbon,
+"R1: Ch 5, turn.
+R2: 1 tr, 3 dc, 1 tr","5ch, turn 
+[3dc, <, tr]*2",Butterfly,X
+"R1: Ch 6, turn
+R2: 1 sc in each st, starting in 2nd ch from hook, turn
+R3: 1 sc in each st, starting in 3rd st, turn
+R4: 1 sc in each st, turn
+R5: 3 sc in 2nd st from last row, sl st in first st from last row, turn
+R6: 4 sc","6ch, turn 
+sk, 5sc, turn
+2sk, 4sc, turn
+4sc, turn 
+3sc@[3,1], ss@[3,0], turn
+4sc",Boot with frill,A
+"Row 1: Chain 10, turn 
+Row 2: Skip the first chain, chain 1, 9 single crochet, turn
+Row 3: Skip the first stitch, chain 1, 9 single crochet","10ch, turn 
+sk, ch, 9sc, turn 
+sk, ch, 9sc",Ribbon Variation,
+"Row 1: Chain 7, turn
+Row 2: 3 double crochet, triple crochet, 3 double crochet ","7ch, turn 
+[3dc, >, tr]*2",Thick belt ,X
+"R1:Ch 16, turn  
+R2: 4 tr, dc, 4 tr, dc, 4 tr, turn  
+R3: Ch 7, sl st in middle st from R2","15ch , turn
+([4tr,>,dc]*3).B, turn 
+7ch, ss@B",eye with eyeliner,XY
+"R1: Ch 10, turn.
+R2: 2 sc in each ch (start in first ch)","10ch, turn
+10sc2inc",Frilly Ribbon ,
+"R1: Ch 10, sl st in first ch","10ch, ss@[0, 0]",Circle ,A
+"Row 1: Chain 10, turn 
+Row 2: 1 single crochet in each chain, starting at the first, turn
+Row 3: 1 single crochet in each chain, starting at the first","10ch, turn
+10sc, turn 
+10sc",Double Ribbon,
+"R1: MR
+R2: 6 sc into the ring
+R3-7: 6 sc","ring.R
+sc6inc@R
+[6sc]*5",Mini tube ,Y
+"R1: Ch 7, sl st in first ch.
+R2: Ch 5, sk 2, sl st in next st, repeat 3 times","7ch, ss@[%,0]
+[5ch, 2sk, ss]*3",3 petal flower,A
+"R1: Ch 10, turn.
+R2: 1 dc in each ch, starting in first ch","10ch, turn
+10dc",Wide Ribbon,
+"Row 1: Chain 5, turn
+Row 2: 1  triple crochet, 3 double crochet , 1 triplle crochet ","5ch, turn 
+[3dc, <, tr]*2",Butterfly,X
+"Row 1: Chain 10, turn 
+Row 2: 5 decreases, starting at the first chain","10ch, turn
+5sc2tog",C-shape ribbon,
+"Row 1: Chain 7, slipstitch in the first chain of the row 
+Row 2: Chain 10, skip a stitch, slipstitch into the next stitch. Repeat 4 times","7ch, ss@[%,0]
+[10ch, sk, ss]*4",4 petal flower,A
+"R1: Ch 9, turn
+R2: Sc in first ch, sk 1, (sc, sk 1) x4","9ch, turn
+(sc, sk)*5",Hole ribbon ,
+"R1: Ch 9, turn
+R2: 4 dc, 1 sc, 4 dc
+R3: Ch 10, sl st in the sc from R2","9ch, turn
+4dc, sc.A, 4dc, turn, 
+10ch, ss@A",Butterfly with loop ,A
+"Row 1: Chain 2
+Row 2: (3 double crochet, single crochet, 3 double crochet, single crochet, 3 double crochet) in the chain space","2ch.S,
+([3dc,>,sc]*3)@S",3 leaf,XY
+"Row 1: Make a magic ring 
+Row 2: Work 6 single crochet into the ring 
+Row 3-7: 6 single crochet","ring.R
+sc6inc@R
+[6sc]*5",Mini tube ,Y
+"R1: MR
+R2: 10 sc into ring, sl st in first sc","ring.R
+10sc@R, ss@[1,0]",Folding Circle ,YA
+"Row 1: Chain 7, slipstitch in the second chain ","7ch, ss@[0, 1]",Circle ,A
+"Row 1: Chain 15, turn 
+Row 2: 10 single crochet, 5 double crochet, turn 
+Row 3: Distribute 10 single crochet in the single crochets from last round, turn 
+Row 4: Insert 2 single crochets into the 5th stitch from Row 3","15ch, turn
+10sc.C, 5dc, turn
+10sc@C, turn 
+2sc@[2,4]",Glasses,YA
+"R1: Ch 7, sl st in first ch","7ch, ss@[0, 0]",Circle ,A
+"Row 1: Chain 7, turn 
+Row 2: 1 single crochet in each stitch, starting at the first, turn 
+Row 3: 1 single crochet in each stitch, starting at the first, turn 
+Row 4: Chain 7 and slip stitch into fourth stitch from Row 3, then chain 7 and slip stitch into the first stitch from Row 3","7ch, turn 
+7sc, turn
+7sc, turn 
+7ch, ss@[2,3], 7ch, ss@[2,0]",Box Double Arch ,A
+"Row 1: Chain 7, turn 
+Row 2: 1 single crochet in each stitch, starting at the first, turn 
+Row 3: 1 single crochet in each stitch, starting at the first, turn 
+Row 4: Chain 15 and slip stitch into first stitch from Row 3 ","7ch, turn 
+7sc, turn
+7sc, turn 
+15ch, ss@[2,0]",Box Arch,A
+"Row 1: Chain 7, slipstitch in the first chain ","7ch, ss@[0, 0]",Circle ,A
+"R1: Ch 7, turn
+R2: 1 sc in each ch, starting in first ch","7ch, turn
+7sc",Ribbon,
+"Row 1: Chain 10, slipstitch in the first chain ","10ch, ss@[0, 0]",Circle ,A
+"Row 1: Chain 10, turn 
+Row 2: 1 double crochet in each chain, starting at the first ","10ch, turn
+10dc",Wide Ribbon,
+"Row 1: Chain 10, turn 
+Row 2: 1 double crochet in each chain, starting at the first, turn
+Row 3: 1 double crochet in each chain, starting at the first","10ch, turn
+10dc, turn 
+10dc",Double DC Ribbon,
+"R1: Ch 10, turn
+R2: 2 dc in each ch (start at the first)","10ch, turn
+10dc2inc",Wide Frilly Ribbon ,
+"Row 1: Chain 4, turn 
+Row 2: Increase in all 4 stitches ","4ch, turn 
+4sc2inc",Curvy,
+"R1: Ch 20, turn
+R2: Sk first st, 19 tr, turn
+R3: Sk first st, 19 dc, turn
+R4: Sk first st, 19 tr","20ch, turn
+sk, 19tr, turn
+sk, 19dc, turn
+sk, 19tr",Mix Ribbon,
+"R1: Ch 7, turn
+R2: 3 dc, 1 tr, 3 dc","7ch, turn 
+[3dc, >, tr]*2",Thick belt ,X
+"Row 1: Chain 6, turn 
+Row 2: 1 single crochet in each stitch, starting at the second, turn 
+Row 3: 1 single crochet in each stitch, starting at the third, turn 
+Row 4: 1 single crochet in each stitch, turn
+Row 5: 3 single crochet in the 2nd stitch from the last row, slip stitch in the first stitch from the last round, turn 
+Row 6: Single crochet 4 times","6ch, turn 
+sk, 5sc, turn
+2sk, 4sc, turn
+4sc, turn 
+3sc@[3,1], ss@[3,0], turn
+4sc",Boot with frill,A
+"Row 1: Make a magic ring 
+Row 2: Work 5 single crochet into the ring 
+Row 3: Work 2 single crochet into the next 4 stitches, work 3 single crochet into the next stitch
+Row 4: ( Increase into the next stitch, single crochet) * 5 times, increase ","ring.R
+5sc@R
+sc2inc*4,sc3inc
+[sc2inc,>,sc]*6",Big Snail Shell ,XY
+"R1: Ch 16, turn  
+R2: 4 tr, dc, 4 tr, dc, 4 tr, turn  
+R3:Ch 7, sl st in last ch from R1","15ch, ch.B , turn
+[4tr,>,dc]*3, turn 
+7ch, ss@B",eye,XY
+"R1: Ch 7, sl st in second ch","7ch, ss@[0, 1]",Circle ,A
+"R1: Ch 10, turn
+R2: Sk first ch, ch 1, 9 sc, turn
+R3: Sk first st, ch 1, 9 sc","10ch, turn 
+sk, ch, 9sc, turn 
+sk, ch, 9sc",Ribbon Variation,
